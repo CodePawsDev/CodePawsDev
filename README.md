@@ -1,7 +1,7 @@
 # 👋 Hello!, I'm Im
-💻 I'm a passionate developer who thrives on turning ideas into reality through code and innovation.<br><br>📚 I love learning! Always keeping up with the latest industry trends. I truly believe in the amazing impact of continuous learning. 🌱<br><br>🐶 I'm a full-time mom to my 4-legged furby, a Shih Tzu.❤️❤️<br>
+### 💻 I'm a passionate developer who thrives on turning ideas into reality through code and innovation.<br><br>📚 I love to learn and truly believe in the amazing impact of continuous learning. 🌱<br><br>🐶 I'm a full-time mom to my 4-legged furby, a Shih Tzu.❤️❤️<br><br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/r-sripen) 
 
 # 💻 Tech Stack:
@@ -11,7 +11,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CodePawsDev&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodePawsDev&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CodePawsDev&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 ---
